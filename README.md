@@ -7,8 +7,8 @@ Assignment #1
 
 ✓ Favourite Cities Construct a program that iterates through an array of your 5 favorite cities and prints them out to the terminal (note*I did favourite foods instead)
 
-BitmakerLabs Write a program that prints the numbers from 1 to 100. But for the multiples of 3 print “Bitmaker” instead of the number and for the multiples of 5 print “Labs” instead of the number. For numbers which are multiples of both 3 and 5 print “BitmakerLabs” (note* WIP - have to figure out how to override rules!)
+WIP - BitmakerLabs Write a program that prints the numbers from 1 to 100. But for the multiples of 3 print “Bitmaker” instead of the number and for the multiples of 5 print “Labs” instead of the number. For numbers which are multiples of both 3 and 5 print “BitmakerLabs” (note* WIP - have to figure out how to override rules!)
 
 Assignment #2/#3
 
-Resume Create a basic HTML & CSS resume to solidify your understanding of the concepts learned.
+✓ / WIP - Resume Create a basic HTML & CSS resume to solidify your understanding of the concepts learned.
